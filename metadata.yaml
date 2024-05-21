@@ -1,0 +1,30 @@
+_repo: Oberon-and-Puck-b-Verses-grave-and-gay_73629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cone, Helen Gray
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '3090'
+    url: http://www.gutenberg.org/2009/agents/3090
+    wikipedia: https://en.wikipedia.org/wiki/Helen_Gray_Cone
+description: ''
+gutenberg_issued: '2024-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73629'
+language: en
+pgterms:marc904: https://archive.org/details/oberonandpuck00conerich/page/n9/mode/2up
+pgterms:marc905: 20230308033552cone
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCassell & Company, Limited, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Oberon and Puck : $b Verses grave and gay'
+url: http://www.gutenberg.org/ebooks/73629
