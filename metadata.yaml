@@ -1,5 +1,8 @@
 _repo: Oberon-and-Puck-b-Verses-grave-and-gay_73629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73629-h/images/cover.jpg
 creator:
   author:
     agent_name: Cone, Helen Gray
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3090
     wikipedia: https://en.wikipedia.org/wiki/Helen_Gray_Cone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73629#Oberon-and-Puck-b-Verses-grave-and-gay
 gutenberg_issued: '2024-05-15'
 gutenberg_type: Text
 identifiers:
